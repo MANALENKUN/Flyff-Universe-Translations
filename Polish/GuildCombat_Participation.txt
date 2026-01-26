@@ -3,8 +3,8 @@
 * Miejsce bitwy: Kanał serwera 1
 * Warunki
  - Mistrz Gildii
- - Poziom Gildii powinien wynosity 6 lub wyższy.
- - Poziom członka Gildii powinien wynosity 30 lub wyższy.
+ - Poziom Gildii powinien wynosić 6 lub wyższy.
+ - Poziom członka Gildii powinien wynosić 30 lub wyższy.
  - Mistrz Gildii lub Kingpin powinni przystąpić razem.
  - Tylko 10 Gild może przystąpić w kolejności kwoty pieniędzy zgłoszenia (przed końcem zgłoszenia).
 * Harmonogram

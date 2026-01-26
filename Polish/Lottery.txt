@@ -2,6 +2,6 @@
 
 Zdobądź wystarczającą ilość przedmiotów eventowych, aby spróbować szczęścia, kręcąc kołem! Możesz wygrać niesamowite nagrody!
 
-Przedmioty mają różne prawdopodobieństwa wygranej, więc nie rozpamiętyj się, jeśli nie wygrasz najlepszej nagrody za pierwszym razem!
+Przedmioty mają różne prawdopodobieństwa wygranej, więc nie zniechęcaj się, jeśli nie wygrasz najlepszej nagrody za pierwszym razem!
 
 #cffff0000Powodzenia!#nc
