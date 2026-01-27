@@ -1,7 +1,7 @@
-﻿Welcome, adventurers! #bStory mode#nb dungeons have monsters with reduced attack, health, and experience compared to the normal version of a dungeon.
+﻿Bienvenue, aventuriers ! Les donjons en #bMode Histoire#nb ont des monstres avec une attaque, une santé et une expérience réduites par rapport à la version normale d’un donjon.
 
-Players may use Story mode difficulty to complete quests with friends, or enjoy a casual stroll through the scenario in a #blow risk#nb environment. Enjoy!
+Les joueurs peuvent choisir la difficulté en Mode Histoire pour accomplir des quêtes entre amis ou profiter d’une balade tranquille dans un environnement #à faible risque#nb. Amusez-vous bien !
 
-- Masquerpets in Story mode dungeons do not drop items
-- Pet cages and treasure chests do not spawn in Story mode
-- Players do not earn achievement credit in Story mode
+- Les Monstres dans les donjons en Mode Histoire ne laissent pas tomber d’objets
+- Les cages de compagnons et coffres au trésor n’apparaissent pas en Mode Histoire
+- Les joueurs ne gagnent pas de succès (achievement) en Mode Histoire

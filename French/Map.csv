@@ -21,12 +21,12 @@ PROPMAP_TXT_000275,Forsaken Tower 2F,Tour oubliée 2e étage
 PROPMAP_TXT_000276,Forsaken Tower 3F,Tour oubliée 3e étage
 PROPMAP_TXT_000277,Forsaken Tower 4F,Tour oubliée 4e étage
 PROPMAP_TXT_000278,Forsaken Tower 5F,Tour oubliée 5e étage
-PROPMAP_TXT_000279,Forsaken Tower 6F,Forsaken Tower 6F
-PROPMAP_TXT_000280,Forsaken Tower 7F,Forsaken Tower 7F
+PROPMAP_TXT_000279,Forsaken Tower 6F,Tour oubliée 6e étage
+PROPMAP_TXT_000280,Forsaken Tower 7F,Tour oubliée 7e étage
 PROPMAP_TXT_100000,Kebaras,Kebaras
-PROPMAP_TXT_100001,North-Fl,Nord-Fl
-PROPMAP_TXT_100002,Cen Flarine,Cen Flarine
-PROPMAP_TXT_100003,East-Fla,Est-Fla
+PROPMAP_TXT_100001,North-Fl,Flarine Nord
+PROPMAP_TXT_100002,Cen Flarine,Flarine Centre
+PROPMAP_TXT_100003,East-Fla,Flarine Est
 PROPMAP_TXT_100004,Darkon,Darkon
 PROPMAP_TXT_100005,The North of Leren Mountains,Montagnes Nord de Leren
 PROPMAP_TXT_100006,The River of Weeping,Rivière de Larmes
@@ -116,14 +116,14 @@ PROPMAP_TXT_200008,Pet Tamer,Éleveur de familiers
 PROPMAP_TXT_200009,Beach House (S),Maison de Plage (S)
 PROPMAP_TXT_200010,Beach House (M),Maison de Plage (M)
 PROPMAP_TXT_200011,Beach House (L),Maison de Plage (L)
-PROPMAP_TXT_200012,Kalgas Assault Realm,Kalgas Assault Realm
+PROPMAP_TXT_200012,Kalgas Assault Realm,Royaume Kalgas Assault
 PROPMAP_TXT_200013,Darken House,Darken House
-PROPMAP_TXT_100086,2nd Anniversary,2nd Anniversary
-PROPMAP_TXT_100087,2nd Anniversary (Medium),2nd Anniversary (Medium)
-PROPMAP_TXT_100088,2nd Anniversary (Hard),2nd Anniversary (Hard)
-PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] Envy Depths (Easy)
-PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] Envy Depths (Medium)
-PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] Envy Depths (Hard)
+PROPMAP_TXT_100086,2nd Anniversary,2e anniversaire
+PROPMAP_TXT_100087,2nd Anniversary (Medium),2e anniversaire (Moyen)
+PROPMAP_TXT_100088,2nd Anniversary (Hard),2e anniversaire (Difficile)
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] Abîme de l'Envie (Facile)
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] Abîme de l'Envie (Moyen)
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] Abîme de l'Envie (Difficile)
 PROPMAP_TXT_100089,Lv.15+,Lv.15+
 PROPMAP_TXT_100090,Lv.20+,Lv.20+
 PROPMAP_TXT_100091,Lv.80+,Lv.80+
@@ -141,19 +141,19 @@ PROPMAP_TXT_200021,Forest House (Couple),Forest House (Couple)
 PROPMAP_TXT_200022,Fall House (Couple),Fall House (Couple)
 PROPMAX_TXT_200023,Herneos,Herneos
 PROPMAP_TXT_200024,Boss Monster Raid,Boss Monster Raid
-PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Dungeon
-PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Dungeon (Normal)
-PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (Hard)
-PROPMAP_TXT_200025,Snowfield,Snowfield
-PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Asylum
-PROPMAP_TXT_200027,Kaillun Temple,Kaillun Temple
+PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Donjon
+PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Donjon (Normal)
+PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Donjon (Hard)
+PROPMAP_TXT_200025,Snowfield,Champ de neige
+PROPMAX_TXT_200026,Ankou's Asylum,L'asile d'Ankou
+PROPMAP_TXT_200027,Kaillun Temple,Temple Kaillun
 PROPMAP_TXT_200028,Eillun,Eillun
 PROPMAP_TXT_200029,Kaillun,Kaillun
-PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
-PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Rhisis Catacombs (Infernal)
-PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
-PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
-PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
-PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
-PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Asylum (Story)
-PROPMAP_TXT_200037,Seabed,Seabed
+PROPMAP_TXT_200030,Leren Chasm (Infernal),Gouffre de Leren (Infernal)
+PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Catacombes de Rhisis (Infernal)
+PROPMAP_TXT_200032,Envy Depths (Infernal),Abîme de l'Envie (Infernal)
+PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Sanctuaire de Guardiane (Infernal)
+PROPMAP_TXT_200034,Storm Peak (Infernal),Pic de Tempête (Infernal)
+PROPMAP_TXT_200035,The Wilds (Infernal),Désiréa (Infernal)
+PROPMAP_TXT_200036,Ankou's Asylum (Story),L'asile d'Ankou (Story)
+PROPMAP_TXT_200037,Seabed,Profondeur de la mer

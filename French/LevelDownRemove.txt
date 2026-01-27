@@ -1,2 +1,2 @@
-﻿Cancel item level reduction here.
-#b#cffff0000Level Reduction cannot be returned once removed.#nb#nc
+﻿Annuler la réduction de niveau de l’objet ici.
+#b#cffff0000La réduction de niveau ne peut pas être rétablie une fois supprimée.#nb#nc

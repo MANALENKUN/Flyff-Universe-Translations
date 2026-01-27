@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Pet Rerolling #nb#nc
-You can #bchange the level#nb of a selected tier, resulting in a new random level which could be #bhigher or lower#nb than the current level.
-#cffff0000The number of scrolls displayed when selecting a tier will be consumed.#nc
-Once you select a tier to reroll, #bonly that tier will remain eligible for rerolling, disabling all other tiers from rerolling using a reroll scroll#nb.
+﻿#b#cff0000ffRéinitialisation de Compagnon#nb#nc
+Vous pouvez #bchanger le niveau#nb d’un palier sélectionné, ce qui donnera un nouveau niveau aléatoire pouvant être #bsupérieur ou inférieur#nb au niveau actuel.
+#cffff0000Le nombre de parchemins affiché lors de la sélection d’un palier sera consommé.#nc
+Une fois qu’un palier est choisi pour la réinitialisation, #bseul ce palier restera éligible à une réinitialisation, désactivant tous les autres paliers pour l’utilisation d’un parchemin de réinitialisation#nb.

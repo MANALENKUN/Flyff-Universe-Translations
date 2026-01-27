@@ -1,5 +1,5 @@
-﻿#bElement Upgrading#nb
+﻿#bAmélioration d’élément#nb
 
-Infusing an item with an element enhances its capabilities against enemies of weaker element types, and dimishes its abilities against enemies with stronger element types.
-#cffff0000Using a protection scroll guarantees that your item cannot be destroyed in the process.
-Low S-Protect scrolls will reduce the upgrade level upon failure.#nc
+Infuser un objet avec un élément renforce ses capacités contre les ennemis d’éléments plus faibles, mais diminue son efficacité contre les ennemis d’éléments plus forts.
+#cffff0000L’utilisation d’un parchemin de protection garantit que votre objet ne pourra pas être détruit lors du processus.
+Les parchemins Bas S-Protect réduiront le niveau d’amélioration en cas d’échec.#nc
