@@ -1182,9 +1182,9 @@ TEXTCLIENT_EVENTBUFF,%s is active!,%s is active!
 TEXTCLIENT_STORAGEFULL,The bag is full.,Le sac est plein.
 TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s Armor Pack (%d/%d)
 TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,Vous ne pouvez utiliser qu'un seul sac à la fois.
-TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,Vous ne pouvez pas effectuer cette action dans une zone JcJ
+TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,Vous ne pouvez pas effectuer cette action dans une zone JcJ.
 TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,L'amélioration a réussi.
-TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,Il vous faut davantage de cet accessoire pour pouvoir le placer
+TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,Il vous faut davantage de cet accessoire pour pouvoir le placer.
 TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,Il vous faut davantage de ce PNJ pour pouvoir le placer.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this artifact battle.,Vous ne vous êtes pas inscrit à la Guerre des Artefacts.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the artifact battle!,Vous avez besoin de faire partie d'une guilde afin de participer à la Guerre des Artefacts.
@@ -1197,7 +1197,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!,Il n'y a pas de Guerre des Artefacts cette semaine. Recommencez la semaine prochaine !
 TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.,Vous ne pouvez placer ici que des PNJ de Maison de Guilde.
 TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,Cet objet ne peut pas être utilisé.
-TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Enregistrement réussi
+TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Enregistrement réussi.
 TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,Vous ne pouvez placer ici que des PNJ Personnels.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,Cette position d’apparition d’artefact est déjà occupée par une autre guilde.
 TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,Vous ne pouvez pas placer plus de %d objets en même temps !
