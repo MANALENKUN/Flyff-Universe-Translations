@@ -116,8 +116,8 @@ PROPMAP_TXT_200008,Pet Tamer,Éleveur de familiers
 PROPMAP_TXT_200009,Beach House (S),Maison de Plage (S)
 PROPMAP_TXT_200010,Beach House (M),Maison de Plage (M)
 PROPMAP_TXT_200011,Beach House (L),Maison de Plage (L)
-PROPMAP_TXT_200012,Kalgas Assault Realm,Royaume Kalgas Assault
-PROPMAP_TXT_200013,Darken House,Darken House
+PROPMAP_TXT_200012,Kalgas Assault Realm,Royaume du Kalgas Assault
+PROPMAP_TXT_200013,Darken House,Maison Darken
 PROPMAP_TXT_100086,2nd Anniversary,2e anniversaire
 PROPMAP_TXT_100087,2nd Anniversary (Medium),2e anniversaire (Moyen)
 PROPMAP_TXT_100088,2nd Anniversary (Hard),2e anniversaire (Difficile)
@@ -130,17 +130,17 @@ PROPMAP_TXT_100091,Lv.80+,Lv.80+
 PROPMAP_TXT_100092,Lv.100+,Lv.100+
 PROPMAP_TXT_100093,Lv.25+,Lv.25+
 PROPMAP_TXT_100097,Lv.120+,Lv.120+
-PROPMAP_TXT_200014,Fall House,Fall House
-PROPMAP_TXT_200015,Fall House (S),Fall House (S)
-PROPMAP_TXT_200016,Fall House (M),Fall House (M)
-PROPMAP_TXT_200017,Fall House (L),Fall House (L)
-PROPMAP_TXT_200018,Blank House (Couple),Blank House (Couple)
-PROPMAP_TXT_200019,Beach House (Couple),Beach House (Couple)
-PROPMAP_TXT_200020,Darken House (Couple),Darken House (Couple)
-PROPMAP_TXT_200021,Forest House (Couple),Forest House (Couple)
-PROPMAP_TXT_200022,Fall House (Couple),Fall House (Couple)
+PROPMAP_TXT_200014,Fall House,Maison d’Automne
+PROPMAP_TXT_200015,Fall House (S),Maison d’Automne (S)
+PROPMAP_TXT_200016,Fall House (M),Maison d’Automne (M)
+PROPMAP_TXT_200017,Fall House (L),Maison d’Automne (L)
+PROPMAP_TXT_200018,Blank House (Couple),Maison Vide (Couple)
+PROPMAP_TXT_200019,Beach House (Couple),Maison Vide (Couple)
+PROPMAP_TXT_200020,Darken House (Couple),Maison Darken (Couple)
+PROPMAP_TXT_200021,Forest House (Couple),Maison Fôret (Couple)
+PROPMAP_TXT_200022,Fall House (Couple),Maison d’Automne (Couple)
 PROPMAX_TXT_200023,Herneos,Herneos
-PROPMAP_TXT_200024,Boss Monster Raid,Boss Monster Raid
+PROPMAP_TXT_200024,Boss Monster Raid,Assaut du boss
 PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Donjon
 PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Donjon (Normal)
 PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Donjon (Hard)
