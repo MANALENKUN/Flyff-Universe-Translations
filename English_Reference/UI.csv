@@ -678,7 +678,7 @@ UI_PIERCING_PROTECTSCROLL,GProtect
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?
 UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.
 UI_PIERCING_REMOVE_TITLE,Remove Piercing Card
-UI_PIERCING_REMOVE_MSG,"Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb"
+UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb
 UI_PIERCING_REMOVE_OK,Remove
 UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.
 UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d
@@ -700,7 +700,7 @@ UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of f
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?
 UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal
-UI_ATTRIBUTE_REMOVE_MSG,"Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb"
+UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb
 UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.
 UI_REVIVAL_REVIVAL,Original Place
 UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges
 UI_ACHIEVEMENTS_EVENTS_TAB,Events
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards
 UI_ACHIEVEMENTS_DESCRIPTION,Description
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!
 UI_APP_LOTTERY_START,Spin!
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards
 UI_ACHIEVEMENTS_PROBABILITY,Probability
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard
 UI_STATBOARD_RAW,Raw Stats
 UI_STATBOARD_GRAPHS,Graphs

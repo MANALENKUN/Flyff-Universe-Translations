@@ -1565,6 +1565,10 @@ PROPQUEST_INC_110253,"I have misjudged you! I’ll look for another person, now 
 PROPQUEST_INC_110254,I've heard Private Leo has been successfully rescued! Please accept this reward!
 PROPQUEST_INC_110255,Has Private Leo been rescued yet?
 PROPQUEST_INC_110256,Visit dungeon NPC to learn all about Event
+PROPQUEST_INC_110257,
+PROPQUEST_INC_110258,
+PROPQUEST_INC_110259,
+PROPQUEST_INC_110260,
 PROPQUEST_INC_110261,Rescue the missing childrens
 PROPQUEST_INC_110262,The children from the town have gone missing... Please rescue them from the monsters!
 PROPQUEST_INC_110263,"I need you to save $QUEST_END_TRIGGERCTRL_COUNT$ childrens in any dungeon, before midnight."
@@ -1744,7 +1748,7 @@ PROPQUEST_INC_132045,Wonderful! The $QUEST_END_ITEM_NAME$ is said to swim near Z
 PROPQUEST_INC_132046,You've found the $QUEST_END_ITEM_NAME$! Surely your love will be blessed to last forever.
 PROPQUEST_INC_132047,"I don't see the $QUEST_END_ITEM_NAME$. If you have trouble finding it, search near Zaoma in the Leren Mountains."
 PROPQUEST_INC_132048,Bring $QUEST_END_ITEM_NAME$ back to me to prove the strength of your love!
-PROPQUEST_INC_132049,Kill Giggleboxes
+PROPQUEST_INC_132049,Kill Giggle Boxes
 PROPQUEST_INC_132084,Kill Trangfoma
 PROPQUEST_INC_132085,Kill Doridoma
 PROPQUEST_INC_132052,Kill Scorpicon
